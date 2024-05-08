@@ -1,1 +1,1 @@
-# Fox-Clicker-Gmae
+# Fox-Clicker-Game
