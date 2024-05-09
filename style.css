@@ -10,7 +10,7 @@ body {
     justify-content: center;
 }
 #foxbutton {
-    background-image: url(images/unnamed.png);
+    background-image: url(unnamed.png);
     border: 0px;
     border-radius: 100%;
     height: 255px;
