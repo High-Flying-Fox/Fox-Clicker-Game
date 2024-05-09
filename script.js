@@ -10,7 +10,7 @@ function kitloop() {
     reloadvalues()
 }
 function islandloop() {
-    Foxcoin += islands
+    Foxcoin += islands * 2
     reloadvalues()
 }
 function reloadvalues() {
@@ -23,16 +23,16 @@ function gainfoxcoin() {
     reloadvalues()
 }
 function addkit() {
-    if (Foxcoin > 4) {
+    if (Foxcoin > 19) {
         kits++
-        Foxcoin -= 5
+        Foxcoin -= 20
     }
     reloadvalues()
 }
 function addisland() {
-    if (Foxcoin > 9) {
+    if (Foxcoin > 39) {
         islands++
-        Foxcoin -= 10
+        Foxcoin -= 40
     }
     reloadvalues()
 }
